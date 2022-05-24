@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to **JavaScript Tutorial**, _learn new programming skills_, or ~~just read it!~~.
 
-[Link to another page](./another-page.html).
+# [Hello World Program](./javascript-tutorial/2022/05/24/js1.html).
 
 There should be whitespace between paragraphs.
 
