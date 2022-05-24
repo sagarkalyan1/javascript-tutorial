@@ -14,9 +14,9 @@ Welcome to **JavaScript Tutorial**, _learn new programming skills_.
 Hi, I am Sagar Kalyan. I am passionate about Web Development, Making valuable videos and a Mentor
 ## Tutorial by Sagar InspireMe
 Follow:
-YouTube Channel [Sagar InspireMe](https://www.youtube.com/channel/UCRRKaUXAy-7d9iBhWm-Bq6w/)
-Website [Solvprog.com](https://solvprog.com)
-YouTube Channel 2nd Channel [Sagar Kalyan](https://www.youtube.com/c/sagarkalyan)
-Instagram [Sagarkalyan1](https://www.instagram.com/p/sagarkalyan1)
-Facebook [Sagarkalyan81](https://www.facebook.com/sagarkalyan81)
+- YouTube Channel [Sagar InspireMe](https://www.youtube.com/channel/UCRRKaUXAy-7d9iBhWm-Bq6w/)
+- Website [Solvprog.com](https://solvprog.com)
+- YouTube Channel 2nd Channel [Sagar Kalyan](https://www.youtube.com/c/sagarkalyan)
+- Instagram [Sagarkalyan1](https://www.instagram.com/p/sagarkalyan1)
+- Facebook [Sagarkalyan81](https://www.facebook.com/sagarkalyan81)
 
