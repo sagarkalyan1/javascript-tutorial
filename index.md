@@ -14,5 +14,5 @@ Follow:
 #### Website [Solvprog.com](https://solvprog.com)
 #### YouTube Channel 2nd Channel [Sagar Kalyan](https://www.youtube.com/c/sagarkalyan)
 #### Instagram [Sagarkalyan1](https://www.instagram.com/p/sagarkalyan1)
-#### Facebook [Sagarkalyan81](https://www.facebook.com/p/sagarkalyan81)
+#### Facebook [Sagarkalyan81](https://www.facebook.com/sagarkalyan81)
 
