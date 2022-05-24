@@ -1,11 +1,11 @@
 
 ## Welcome to JavaScript Tutorial by Sagar InspireMe
 
-### Theme which i am using on github, steps i need to follow to add some content to my tutorial blog.
+### leap-day theme: using on github for this tutorial, Markdown Syntax: I follow to add some content to my tutorial blog.
 
-You can use the [editor on GitHub](https://github.com/sagarkalyan1/javascript-tutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Theme Source link: leap-day](https://github.com/pages-themes/leap-day)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub Pages run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in Markdown files.
 
 ### Markdown
 
