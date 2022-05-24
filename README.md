@@ -1,5 +1,7 @@
 
-## Welcome to GitHub Pages
+## Welcome to JavaScript Tutorial by Sagar InspireMe
+
+### Theme which i am using on github, steps i need to follow to add some content to my tutorial blog.
 
 You can use the [editor on GitHub](https://github.com/sagarkalyan1/javascript-tutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
