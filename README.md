@@ -1,9 +1,10 @@
 
 ## Welcome to JavaScript Tutorial by Sagar InspireMe
 
-### leap-day theme: using on github for this tutorial, Markdown Syntax: I follow to add some content to my tutorial blog.
-
+### leap-day theme: using on github for this tutorial
+Markdown Syntax: I follow to add some content to my tutorial blog.
 [Theme Source link: leap-day](https://github.com/pages-themes/leap-day)
+
 
 GitHub Pages run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in Markdown files.
 
