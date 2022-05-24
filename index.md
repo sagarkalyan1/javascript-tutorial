@@ -11,7 +11,7 @@ Welcome to **JavaScript Tutorial**, _learn new programming skills_.
 
 
 
-Hi, I am Sagar Kalyan. A Web Developer, YouTuber and a Mentor
+Hi, I am Sagar Kalyan. I am passionate about Web Development, Making valuable videos and a Mentor
 ## Tutorial by Sagar InspireMe
 Follow:
 #### YouTube Channel [Sagar InspireMe](https://www.youtube.com/channel/UCRRKaUXAy-7d9iBhWm-Bq6w/)
