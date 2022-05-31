@@ -8,6 +8,7 @@ Welcome to **JavaScript Tutorial**, _learn new programming skills_.
 
 # 2. [JavaScript Output](./2022/05/24/js2.html)
 
+# 2. [JavaScript Variables](./2022/05/31/js_3_variables.html)
 
 
 
