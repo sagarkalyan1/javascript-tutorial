@@ -16,8 +16,8 @@
 ### Using Nothing - Js Variables
 ```js
 title = "How to win friends and influence people!";
-book_release_year = 2011 + 2019;
-book_release_year2 = "2011 + 2019";
+book_release_year = 2011;
+book_release_year2 = "2011 + 9";
 
 
 document.getElementById("book-title").innerHTML = title;
